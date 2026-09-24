@@ -9,7 +9,7 @@ const path = require('path');
 const ROOT = path.join(__dirname, '..');
 const BLOG_DIR = path.join(ROOT, 'blog');
 
-const WHATSAPP = 'https://wa.me/551740099191?text=Ol%C3%A1!%20Gostaria%20de%20agendar%20uma%20consulta.';
+const WHATSAPP = 'https://wa.me/551740099191?text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20uma%20consulta%20com%20o%20Dr.%20Ricardo%20Zerati.';
 
 const LINKS = {
   'Urologia Feminina': 'urologia-feminina-quando-procurar.html',

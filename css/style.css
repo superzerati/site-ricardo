@@ -113,7 +113,7 @@ img { max-width: 100%; display: block; }
 }
 
 .announcement-bar {
-  max-height: 60px;
+  max-height: 160px;
   transition: max-height 0.35s ease, opacity 0.25s ease, padding 0.35s ease;
   background: linear-gradient(90deg, #04211f, #06342f);
   color: var(--white);
@@ -1823,6 +1823,27 @@ img { max-width: 100%; display: block; }
 @media (max-width: 640px) {
   .blog-grid { grid-template-columns: 1fr; }
   .post-hero-bg-icon { width: 200px; height: 200px; }
+}
+
+/* Hero photo on tablet/mobile: fade the flat bottom cut into the background */
+@media (max-width: 1024px) {
+  .hero-doctor {
+    animation: none;
+    filter: none;
+    -webkit-mask-image: linear-gradient(to bottom, #000 70%, transparent 100%);
+    mask-image: linear-gradient(to bottom, #000 70%, transparent 100%);
+  }
+
+  .hero-glow {
+    right: auto;
+    left: 50%;
+    width: 300px;
+    height: 300px;
+    margin-left: -150px;
+    bottom: 12%;
+  }
+
+  .hero-bg { opacity: 0.4; }
 }
 
 /* Respect reduced motion preference */
