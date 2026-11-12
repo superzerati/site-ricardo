@@ -1855,3 +1855,16 @@ img { max-width: 100%; display: block; }
     scroll-behavior: auto !important;
   }
 }
+
+/* Blog — bloco "Resposta rápida" (Lote 2) */
+.article-body > p.post-quick-answer {
+  margin: 0 0 1.8rem;
+  padding: 1.1rem 1.3rem;
+  border: 1px solid rgba(29, 227, 201, 0.35);
+  border-radius: 14px;
+  background: rgba(29, 227, 201, 0.06);
+  font-size: 1.05rem;
+  line-height: 1.75;
+  color: var(--white);
+}
+.article-body > p.post-quick-answer strong { color: var(--cyan); }

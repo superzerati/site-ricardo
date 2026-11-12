@@ -47,3 +47,20 @@ Após cada lote aprovado e publicado, adicionar a entrada abaixo:
 | 9.2 | Transversal | Saúde Urológica: 7 Hábitos Que Fazem Diferença na Prevenção | `saude-urologica-habitos-prevencao` |
 | 9.3 | Transversal | Urologia: Mitos e Verdades Que Todo Paciente Deveria Saber | `urologia-mitos-e-verdades` |
 | 9.4 | Transversal | Vergonha de Falar Sobre Saúde Íntima? Veja Por Que Isso Pode Custar Caro | `vergonha-de-falar-sobre-saude-intima` |
+
+### Lote 2 — Novembro/2026
+
+| Nº | Pilar | Título | Slug |
+|---|---|---|---|
+| 2.1 | Estética Íntima Masculina | Estética Íntima Masculina: O Que É, Para Quem É Indicada e Como É a Avaliação | `estetica-intima-masculina-o-que-e` |
+| 2.2 | Estética Íntima Masculina | Preenchimento Peniano: Recuperação, Cuidados e o Que Esperar no Pós | `preenchimento-peniano-recuperacao-cuidados` |
+| 2.3 | Estética Íntima Masculina | Preenchimento Peniano Afeta a Ereção ou a Sensibilidade? | `preenchimento-peniano-afeta-erecao-sensibilidade` |
+| 2.4 | Estética Íntima Masculina | Preenchimento Peniano em São José do Rio Preto: O Que Perguntar Antes de Escolher | `preenchimento-peniano-sao-jose-do-rio-preto` |
+| 2.5 | Estética Íntima Masculina | Autoestima Masculina e Insegurança Íntima: Quando Vale Conversar com um Urologista | `autoestima-masculina-inseguranca-intima` |
+| 2.6 | Disfunção Erétil | Disfunção Erétil e Coração: Por Que a Ereção Pode Ser um Sinal de Alerta | `disfuncao-eretil-coracao-sinal-de-alerta` |
+| 2.7 | Disfunção Erétil | Remédio para Ereção Sem Receita: Riscos do Uso Por Conta Própria (Inclusive Como Pré-Treino) | `remedio-para-erecao-sem-receita-riscos` |
+| 2.8 | Disfunção Erétil | Disfunção Erétil em Homens Jovens: Causas e Quando Investigar | `disfuncao-eretil-homens-jovens` |
+| 2.9 | Saúde Masculina | Canetas Emagrecedoras e Saúde Masculina: O Que Muda na Ereção, na Testosterona e nos Rins | `canetas-emagrecedoras-saude-masculina` |
+| 2.10 | Saúde Masculina | Testosterona Por Conta Própria: Riscos Para a Fertilidade e Quando a Reposição É Indicada | `testosterona-por-conta-propria-fertilidade` |
+| 2.11 | Urologia | Vasectomia: O Que Mudou na Lei, Como É Feita e os Principais Mitos | `vasectomia-lei-como-e-feita-mitos` |
+| 2.12 | Cálculo Renal | Creatina Faz Mal aos Rins? O Que se Sabe e Quem Precisa de Cuidado | `creatina-faz-mal-aos-rins` |

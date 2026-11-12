@@ -23,4 +23,4 @@ O próprio rodapé do site já usa este texto — reaproveitar a mesma lógica n
 
 ## Fonte
 
-Mesmas restrições já documentadas em `Marketing (1)/_context/03-tom-de-voz.md` (seção "Restrições CFM").
+Mesmas restrições já documentadas em `Marketing/_context/03-tom-de-voz.md` (seção "Restrições CFM").

@@ -30,4 +30,4 @@ Nenhum concorrente deve ser citado nominalmente nos artigos.
 
 ## Fonte
 
-Detalhamento completo do tom de voz (com mais exemplos e restrições) em `Marketing (1)/_context/03-tom-de-voz.md` — mesmo cliente, usado hoje para o Instagram. Este blog deve seguir o mesmo tom, adaptado para formato de artigo (parágrafos mais longos, estrutura com subtítulos).
+Detalhamento completo do tom de voz (com mais exemplos e restrições) em `Marketing/_context/03-tom-de-voz.md` — mesmo cliente, usado hoje para o Instagram. Este blog deve seguir o mesmo tom, adaptado para formato de artigo (parágrafos mais longos, estrutura com subtítulos).

@@ -23,4 +23,4 @@ Clínica de urologia do Dr. Ricardo Zerati, com atuação em urologia geral, fem
 
 ## Fonte
 
-Este arquivo reaproveita e resume o que já está documentado com mais detalhe em `Marketing (1)/_context/02-missao-visao-valores.md` (mesmo cliente, contexto de Instagram) — consulte lá para mais profundidade sobre missão, visão e perfil de paciente ideal.
+Este arquivo reaproveita e resume o que já está documentado com mais detalhe em `Marketing/_context/02-missao-visao-valores.md` (mesmo cliente, contexto de Instagram) — consulte lá para mais profundidade sobre missão, visão e perfil de paciente ideal.
